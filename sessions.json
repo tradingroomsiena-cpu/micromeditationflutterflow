@@ -1,0 +1,19 @@
+{
+  "sessions": [
+    {
+      "id": 1,
+      "title": "Meditazione di 5 minuti",
+      "text": "Chiudi gli occhi, inspira profondamente e rilassati..."
+    },
+    {
+      "id": 2,
+      "title": "Meditazione del respiro",
+      "text": "Concentra l’attenzione sul tuo respiro, osservando ogni inspirazione ed espirazione..."
+    },
+    {
+      "id": 3,
+      "title": "Meditazione di gratitudine",
+      "text": "Pensa a tre cose per cui sei grato oggi e lascia che la gratitudine riempia la tua mente..."
+    }
+  ]
+}
